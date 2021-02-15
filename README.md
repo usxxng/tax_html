@@ -8,7 +8,7 @@ Taxmiin web page project
 [절세미인 웹작업 페이지](./index.html)
 
 ## Screen Preview
-![screenshot1](./images/readme_1.png)
+![screenshot1](./images/readme_1.PNG)
 
 ### Web Page Screenshot
 ![screenshot2](./images/page1.png)
